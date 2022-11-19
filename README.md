@@ -29,11 +29,3 @@ I am a fullstack developer with an ambition to continue learning!
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Pegorara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/pegorara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mendeskennedy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/KennedyPegorara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<div align="left">
-  <a href="https://github.com/Pegorara">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Pegorara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pegorara&layout=compact&langs_count=7&theme=dracula"/>
-</div>
