@@ -7,8 +7,7 @@ FullStack Developer
 I am a fullstack developer with an ambition to continue learning!
 
 * 🌍  I'm based in Recife
-* ✉️  You can contact me at [pegorara@proton.me](mailto:pegorara@proton.me)
-* 🧠  I'm learning Java
+* 🧠  I'm learning Java and Spring
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
