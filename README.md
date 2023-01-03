@@ -7,7 +7,7 @@ FullStack Developer
 I am a fullstack developer with an ambition to continue learning!
 
 * 🌍  I'm based in Recife
-* 🧠  I'm learning Java and Spring
+* 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
