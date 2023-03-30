@@ -9,7 +9,7 @@ Front-End Developer
 </div>
 
 
-I am a fullstack developer with an ambition to continue learning!
+I am a front-end developer with an ambition to continue learning!
 
 * 🌍  I'm based in Recife
 * 🧠  I'm learning React
