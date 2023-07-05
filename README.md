@@ -9,10 +9,10 @@ Front-End Developer
 </div>
 
 
-I am a front-end developer with an ambition to continue learning!
+I am a fullstack developer with an ambition to continue learning!
 
 * 🌍  I'm based in Recife
-* 🧠  I'm learning React
+* 🧠  I'm learning React and Ruby
 * 🤝  I'm open to collaborating on interesting projects
 
 
@@ -21,7 +21,7 @@ I am a front-end developer with an ambition to continue learning!
 
 <p align="left">
 <a href="https://pt-br.reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /></a>
+<a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
