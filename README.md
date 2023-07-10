@@ -1,7 +1,7 @@
 Hi! My name is Kennedy
 ===============================================================================================================================
 
-Front-End Developer
+FullStack Developer
 -------------------
 
 <div style="display: inline_block">
