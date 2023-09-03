@@ -1,22 +1,3 @@
-Hi! My name is Kennedy
-===============================================================================================================================
-
-FullStack Developer
--------------------
-
-<div style="display: inline_block">
-<img align="right" height="150em" src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif"/>
-</div>
-
-
-I am a fullstack developer with an ambition to continue learning!
-
-* 🌍  I'm based in Recife
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on interesting projects
-
-
-
 ### Skills
 
 <p align="left">
@@ -26,13 +7,6 @@ I am a fullstack developer with an ambition to continue learning!
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery" /></a>
-  
-<p> <div align="left">
-  <a href="https://github.com/pegorara">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pegorara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pegorara&layout=compact&langs_count=7&theme=dracula"/>
-</div></p>
-  
 
 ### Socials
 
