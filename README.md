@@ -27,8 +27,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pegorara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" />
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Pegorara&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/Pegorara" width="320" height="150" />
   </a>
 </p>
 
